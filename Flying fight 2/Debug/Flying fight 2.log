@@ -1,0 +1,27 @@
+﻿  Source.cpp
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(55,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(57,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(63,1): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(83,42): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(83,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(133,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(143,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(144,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(145,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(146,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(147,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(167,15): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(172,31): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(207,29): warning C4305: =: усечение из "double" в "float"
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(210,29): warning C4305: =: усечение из "double" в "float"
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(213,29): warning C4305: =: усечение из "double" в "float"
+F:\Visual projects\Flying fight 2\Flying fight 2\Source.cpp(217,30): warning C4305: =: усечение из "double" в "float"
+  Flying fight 2.vcxproj -> F:\Visual projects\Flying fight 2\Debug\Flying fight 2.exe
